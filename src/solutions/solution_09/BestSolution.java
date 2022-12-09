@@ -1,4 +1,4 @@
-package solution_9;
+package solutions.solution_09;
 
 public class BestSolution {
 

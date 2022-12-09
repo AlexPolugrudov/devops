@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75a1f995-eea8-439b-988c-38a10729c93f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_14/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_14/description" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_20/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_20/description" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_26/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_26/description" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_27/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_27/description" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_35/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_35/description" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_9/BestSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_9/MySolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solution_9/description" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution_9/BestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution_09/BestSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution_9/MySolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution_09/MySolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solution_9/description" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution_09/description" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +40,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Java Projects/bot/TelegramBot",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager" selected="Application.solution_35.Solution">
@@ -146,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670432985484</updated>
-      <workItem from="1670432988067" duration="8392000" />
+      <workItem from="1670432988067" duration="9118000" />
     </task>
     <servers />
   </component>

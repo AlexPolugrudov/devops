@@ -1,4 +1,4 @@
-package solution_14;
+package solutions.solution_14;
 
 public class Solution {
     public String longestCommonPrefix(String[] strs) {

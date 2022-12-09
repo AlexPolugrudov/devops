@@ -1,4 +1,4 @@
-package solution_27;
+package solutions.solution_27;
 
 public class Solution {
     public int removeElement(int[] nums, int val) {

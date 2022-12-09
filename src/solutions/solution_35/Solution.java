@@ -1,4 +1,4 @@
-package solution_35;
+package solutions.solution_35;
 
 public class Solution {
     public int searchInsert(int[] nums, int target) {
